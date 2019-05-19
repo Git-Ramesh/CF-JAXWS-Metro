@@ -1,1 +1,1 @@
-# JAXWS-RI# CF-JAXWS-Metro
+# CF-JAXWS-Metro
